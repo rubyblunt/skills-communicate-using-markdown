@@ -6,4 +6,6 @@ Added headings to the file
 ``` javascript
 var myVar = "Hello, world!";
 ```
-
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio 
+- [ ] Introduce myself
